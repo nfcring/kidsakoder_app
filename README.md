@@ -1,2 +1,1 @@
-# kidsakoder_app
-Åpent repo for kidsa koder
+Hei i fra Sebastian og Adrian
