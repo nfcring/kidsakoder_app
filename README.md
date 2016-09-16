@@ -1,2 +1,1 @@
-# kidsakoder_app
-Åpent repo for kidsa koder
+alexander er kjempe kul
