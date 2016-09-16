@@ -1,2 +1,2 @@
-# kidsakoder_app
-Åpent repo for kidsa koder
+Hei, jeg heter Nicolai og er verdensmester i alt som du kan tenke deg<3
+
