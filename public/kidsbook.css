@@ -2,11 +2,6 @@ body {
   background-color: powderblue;
 }
 
-.innlegg-tekst {
-  margin-top: 50px;
+a {
+  color.FF4000
 }
-
-.avsender {
-  color: steelblue;
-}
-
